@@ -1,0 +1,25 @@
+{
+  "SQLCONNECTION": {
+    "DB_NAME": "",
+    "DB_USERNAME": "",
+    "DB_PASSWORD": ""
+  },
+  "SMTPCONNECTION": {
+    "HOST": "",
+    "AUTH": true,
+    "USERNAME": "",
+    "PASSWORD": "",
+    "SECURITY": "ssl",
+    "PORT": 465,
+    "FROM_ADDRESS": "",
+    "FROM_NAME": ""
+  },
+  "CUSTOM_ID_STARTING_OFFSET": 0,
+  "EASYCHECKIN_PUBLIC_URL": "",
+  "ORG_NAME": "",
+  "EMAIL_FOOTER_ADDRESS": "",
+  "EMAIL_FOOTER_PHONE": "",
+  "EMAIL_FOOTER_EMAIL": "",
+  "ADMIN_PANEL_USERNAME": "admin",
+  "ADMIN_PANEL_PASSWORD": "password"
+}

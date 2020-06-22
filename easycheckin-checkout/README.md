@@ -8,7 +8,10 @@ GitHub: https://github.com/remmosnimajneb
 Theme Design by: HTML5 UP (HTML5UP.NET)
 Licensing Information: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-Note: This program has no relation to HID, EasyLobby SVM or any of it's affiliates. HID, EasyLobby SVM, and eAdvance may be trademarks of HID Global. Learn more about EasyLobby at https://www.hidglobal.com/products/software/easylobby
+## Disclamers!
+1. This program has no relation to HID, EasyLobby SVM or any of it's affiliates. HID, EasyLobby SVM, and eAdvance may be trademarks of HID Global. Learn more about EasyLobby at https://www.hidglobal.com/products/software/easylobby
+2. These programs (for the most part) integrate DIRECTLY with EasyLobby SQL Server - meaning, it's directly changing stuff in your database, in ways that were not necessarily perscribed by HID and can cause issues with the system. This program is given AS IS with ABSOLUTELY NO guarantees in any way. In no way shape or form is the author liable for any losses to revenue, data or anything due to using this program.
+3. Lastly, these programs are built for the more technical crowd. If you're looking for a little EXE download - this ain't it. Sorry.
 
 ## Overview:
 This is a quick little custom script to allow quick checkin and checkout of visitors on HID's EasyLobby SVM using CustomID's
