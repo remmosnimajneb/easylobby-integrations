@@ -1,0 +1,6 @@
+#Deny Access to JSON Configuration files, otherwise your DB Connection info is exposed!
+
+<Files ~ "(.json)">
+Order allow,deny
+Deny from all
+</Files>
